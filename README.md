@@ -8,7 +8,7 @@
 - dGPU: nVIDIA GeForce GTX 1050
 - Connectivity: Intel(R) Wireless-AC 9462 
 - Ethernet: Qualcomm Atheros AR8171/8175 PCI-E Gigabit Ethernet Controller (NDIS 6.30)	
-- Audio Adapter: RRealtek ALC892 @ Intel Cannon Point PCH - cAVS 
+- Audio Adapter: Realtek ALC892 @ Intel Cannon Point PCH - cAVS 
 
 # Working:
 - Intel UHD Graphics 630 1536MB
